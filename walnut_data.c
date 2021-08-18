@@ -79,7 +79,7 @@ int view(){
 	int i = 1;
 	shop *p;
 	if(p == NULL){
-		printf("\n\nALL THE SHOPES ARE CLOSED FOR THE MOMENT PLEASE TRY AGAIN!!!\n\n");
+		printf("\n\nALL THE SHOPES ARE CLOSED FOR THE MOMENT PLEASE TRY AGAIN!!!!\n\n");
 	}
 	else{
 		printf("Menu of the shops with there respective rates.");
